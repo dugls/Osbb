@@ -1,0 +1,22 @@
+#features{
+	padding-top: 170px;
+}
+li{
+	list-style: none;
+}
+.circle-list li{
+    padding: 1em;
+    border-bottom: 1px dashed red;
+}
+.circle-list p{
+    margin: 0;
+}
+#borowers{
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+border: 2px dashed #FF7575;
+}
+#featuresleft{
+	border-right: 2px solid #e6ecf2;
+}
